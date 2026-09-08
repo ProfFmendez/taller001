@@ -22,6 +22,7 @@ public class ObjetoPR {
     
     public void metodoParaPR(){
         //TODO: hagan código aquí :)
+        String conflicto = "Esto va a generar un conflicto";
     }
     
 }
