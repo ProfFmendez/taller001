@@ -22,7 +22,8 @@ public class ObjetoPR {
     
     public void metodoParaPR(){
         //TODO: hagan código aquí :)
-        int conflicto = -1;
+        int suma = 324+53;
+        System.out.println(suma);
     }
     
 }
