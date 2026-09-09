@@ -18,11 +18,13 @@ public class ObjetoPR {
     
     public String toString(){
         return "{Objeto PR [ attributo: " + this.atributo + " ] }";
+        
     }
     
     public void metodoParaPR(){
         //TODO: hagan código aquí :)
         int conflicto = -1;
+        System.out.println("Hola");
     }
     
 }
